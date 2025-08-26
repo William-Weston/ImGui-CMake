@@ -3,7 +3,7 @@
 #=============================
 
 add_library( ImGui )
-add_library( ImGui::ImGui ALIAS ImGui )
+add_library( imgui::imgui ALIAS ImGui )
 
 set ( ImGui_Public_Headers
    ${CMAKE_CURRENT_SOURCE_DIR}/include/ImGui/imgui.h
