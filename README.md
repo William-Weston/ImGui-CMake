@@ -1,4 +1,8 @@
 # ImGui-CMake
-Dear ImGui with CMake for SDL3
+Dear ImGui with CMake for SDL3 with the SDL3 renderer backend
 
-Original repo: [imgui](https://github.com/ocornut/imgui)
+Original Repo:  [imgui](https://github.com/ocornut/imgui)
+
+## Dependencies
+
+- SDL3 must be installed on the system
